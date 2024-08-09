@@ -8,5 +8,7 @@ public class tiposVariaveis {
         
         final double VALOR_DE_PI = 3.14;
 
+
+        batata
     }
 }
