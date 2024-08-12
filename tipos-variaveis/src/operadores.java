@@ -20,7 +20,25 @@ public class operadores {
             //ou 
             String result = a==b ? "verdadeiro" : "falso";
 
-            System.out.println(result,resultado);
+
+int numero1 =1;
+int numero2 =2;
+
+boolean simNao = numero1 == numero2;
+boolean naoSim = numero1 != numero2;
+
+System.out.println("numero um é igual ao numero dois" + simNao);
+System.out.println("numero um é diferente ao numero dois" + simNao);
+            //operadores lógicos
+
+
+            boolean condicao1 = true,condicao2 = false;
+
+            if (condicao1=false && (simNao = true)){
+
+                System.out.println();
+
+            }
         }
     }
     
