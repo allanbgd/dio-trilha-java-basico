@@ -18,7 +18,7 @@ System.out.println("Digite sua idade: ");
 int idade = scanner.nextInt();
 
 
-System.out.println("Olá eu me chamo "+ nome + " " +sobrenome);
+System.out.println("Olá"+ nome + " " +sobrenome);
 System.out.println("Tenho "+ idade +" anos");
 System.out.println("Minha altura é " + altura);
 
